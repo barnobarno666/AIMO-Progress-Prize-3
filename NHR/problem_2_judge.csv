@@ -1,8 +1,0 @@
-problem_id,attempt,answer,ground_truth,verdict,total_tokens,python_calls,python_errors,relevance,coherence,code_correctness,repetition,judge_score,judge_status
-2,1,44,160,wrong,17825,27,5,10,9,9,9,9.25,ok
-2,2,160,160,correct,19617,18,2,9,9,9,9,9.0,ok
-2,3,160,160,correct,31035,68,1,5,5,5,5,5.0,context_overflow
-2,4,80,160,wrong,23417,25,3,10,8,8,8,8.5,ok
-2,5,160,160,correct,25334,31,5,9,8,6,9,8.0,ok
-2,6,44,160,wrong,16194,14,2,10,9,9,9,9.25,ok
-2,7,160,160,correct,20304,23,2,10,9,9,9,9.25,ok
