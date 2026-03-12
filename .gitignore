@@ -3,3 +3,5 @@ DATASETS
 kaggle (3).json
 /*.json
 reasoning_dataset*
+NHR/*.csv
+NHR/*.log
