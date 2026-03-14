@@ -5,3 +5,4 @@ kaggle (3).json
 reasoning_dataset*
 NHR/*.csv
 NHR/*.log
+*.py
