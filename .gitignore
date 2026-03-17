@@ -6,3 +6,4 @@ reasoning_dataset*
 NHR/*.csv
 NHR/*.log
 *.py
+research_summary.md
